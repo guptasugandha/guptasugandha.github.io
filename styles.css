@@ -36,6 +36,10 @@ html {
   }
 }
 
+#table-home{
+  background-color: style= #E7E7E7;
+}
+
 body {
   font-family: inherit;
   font-size: 1rem;
